@@ -1,8 +1,8 @@
 # Build log
 
-What I shipped each week, what broke, and one number. Newest entry first.
+Weekly, newest first: what shipped, what broke, one number.
 
-## Entry format
+## Format
 
 ```
 ### YYYY-MM-DD
